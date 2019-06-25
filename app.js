@@ -4,7 +4,7 @@ var product ={
     title:"Lily",
     description:"Valentine Flower",
     unitprice:25,
-    likes:500,
+    likes:4000,
     quantity:3000
 };
 
